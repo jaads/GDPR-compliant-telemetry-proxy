@@ -1,0 +1,12 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Jan Arends",
+  "license": "GPL-3.0",
+  "description": "A simple proxy server which forwards requests to another server to not provide the IP address of the user to a third party.",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
